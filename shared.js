@@ -1,5 +1,5 @@
 (function(){
-  const DEFAULT_BACKEND = "https://floorplansaberdeen.floorplansaberdeen.workers.dev";
+  const DEFAULT_BACKEND = "https://eventsfloorplan.floorplansaberdeen.workers.dev";
   const BACKEND_KEY = "floorplan_backend_url";
   const SVG_URL = "./event_plan.svg";
 
